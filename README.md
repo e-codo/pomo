@@ -1,2 +1,2 @@
-# pomo
-focus timer
+# pomodorka
+Pomodoro Фокусировка
